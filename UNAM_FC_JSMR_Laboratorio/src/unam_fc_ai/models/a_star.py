@@ -7,7 +7,7 @@ Facultad de Ciencias
 Materia: Inteligencia Artificial
 Docente: Dra. Jessica Sarahi Méndez Rincón
 Ayudante de Laboratorio: Diego Eduardo Peña Villegas
-Alumno: [Nombre del Alumno]
+Alumno: Zaldivar Alanis Rodrigo
 Año escolar: 2026-2
 Copyright: (c) 2025 UNAM - MIT License
 This software is for educational purposes.  
